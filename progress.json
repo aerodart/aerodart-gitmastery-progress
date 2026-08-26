@@ -303,5 +303,14 @@
       "You need to merge 'feature-delete' second!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787725248.53032,
+    "completed_at": 1787725251.825751,
+    "comments": [
+      "Contents of 'features.md' is not valid! Try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
