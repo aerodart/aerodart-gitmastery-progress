@@ -402,5 +402,14 @@
       "Great work on using branches to maintain the care notes for your bonsai trees!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-branch-rename",
+    "started_at": 1787941877.712356,
+    "completed_at": 1787941880.829106,
+    "comments": [
+      "Great work with renaming the branches on both your local and remote repositories!"
+    ],
+    "status": "Completed"
   }
 ]
