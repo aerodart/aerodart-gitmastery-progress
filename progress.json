@@ -411,5 +411,14 @@
       "Great work with renaming the branches on both your local and remote repositories!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "create-pr-from-main",
+    "started_at": 1787942049.221355,
+    "completed_at": 1787942052.843264,
+    "comments": [
+      "Good job creating the PR and pushing commits!"
+    ],
+    "status": "Completed"
   }
 ]
