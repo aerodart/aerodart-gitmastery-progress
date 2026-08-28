@@ -393,5 +393,14 @@
       "Great work in identifying how .gitignore works!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "bonsai-tree",
+    "started_at": 1787941827.257664,
+    "completed_at": 1787941829.152334,
+    "comments": [
+      "Great work on using branches to maintain the care notes for your bonsai trees!"
+    ],
+    "status": "Completed"
   }
 ]
