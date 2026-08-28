@@ -375,5 +375,14 @@
       "Nice work renaming the branch locally and on the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "amateur-detective",
+    "started_at": 1787941188.635311,
+    "completed_at": 1787941190.096791,
+    "comments": [
+      "Congratulations on cracking the case! You found the hacker!"
+    ],
+    "status": "Completed"
   }
 ]
